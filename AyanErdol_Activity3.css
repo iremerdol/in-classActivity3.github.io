@@ -1,0 +1,49 @@
+.advertisement
+{
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:white;
+	position: absolute;
+	top: 1%;
+}
+
+#links{
+	position: absolute;
+	left: 27%;
+}
+
+.image{
+	width: 250px;
+	float: left;
+	margin-right: 2%;
+}
+
+#koala{
+	max-height:100%; 
+	max-width:100%;
+}
+
+.header{
+	position: relative;
+	left: 7%;
+}
+
+.content{
+	position: relative;
+	left: 7%;
+	width: 50%;
+}
+
+.title{
+	position: absolute;
+	left: 25%;
+	top: 25%;
+}
+
+.head{
+	position: relative;
+	left: 27%;
+}
